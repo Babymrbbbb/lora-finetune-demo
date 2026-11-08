@@ -1,0 +1,7 @@
+# 真实 PEFT/LoRA 微调路径（可选，需 GPU / Colab）
+# 安装：pip install -r requirements-peft.txt
+torch>=2.1.0
+transformers>=4.38.0
+peft>=0.9.0
+datasets>=2.18.0
+accelerate>=0.27.0
